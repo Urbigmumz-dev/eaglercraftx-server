@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1734816561149
+  login: 1734816534872
+money: '0'
+last-account-name: Urbigmumz
+logoutlocation:
+  world: 101d895d-8d23-4189-9364-033001e4c18e
+  world-name: void_world
+  x: -119.5
+  y: 78.0
+  z: 252.5
+  yaw: -50.250003814697266
+  pitch: 1.350000023841858

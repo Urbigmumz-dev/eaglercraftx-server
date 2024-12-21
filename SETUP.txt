@@ -1,0 +1,11 @@
+For minecraft 1.8.8
+    -config.yml for bungeecord (main directory) change void_lobby in servers for real minecraft MOTD
+
+For Eaglercraft 1.8.8
+    -go into /plugins for bungeecord (only has one jar) inside eaglercraftxbungee listeners.yml is all of the server configs for max players, motd, etc.
+
+For void_lobby
+    -this server is setup in such a way to use the least amount of resources while also acting as an auth server for the main server (lobby)
+
+For lobby
+    -do whatever you want, plugins go into /plugins inside /lobby ONLY, must also be spigot/bukkit 1.8 compatible
