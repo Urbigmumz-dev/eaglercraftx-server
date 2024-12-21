@@ -4,4 +4,4 @@ This is just a simple server starter, all it does is host the different servers 
 Go to SETUP.txt for instructions on what to do.
 
 Still in testing - be patient
- -non-local testing
+* non-local testing
