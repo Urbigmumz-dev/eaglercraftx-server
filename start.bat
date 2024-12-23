@@ -13,4 +13,3 @@ cd ../lobby
 start "Lobby" java -Xms512M -Xmx2G -jar ./server.jar nogui
 
 echo All servers started. Press any key to exit this window.
-pause

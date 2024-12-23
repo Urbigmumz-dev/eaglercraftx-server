@@ -9,3 +9,5 @@ For void_lobby
 
 For lobby
     -do whatever you want, plugins go into /plugins inside /lobby ONLY, must also be spigot/bukkit 1.8 compatible
+
+In order to even start the server you need to change the eula.txt in both servers to true
