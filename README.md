@@ -3,4 +3,6 @@ This is just a simple server starter, all it does is host the different servers 
 
 For use on RPI5 8GB: RPI5 4GB is actually faster on the CPU, but theres not enough RAM so that will have to be sacrificed. Please overclock your RPI5 8GB when hosting this server, to 2.8GHz or higher for world generation purposes. Please look into getting a dedicated server for anything over proabably 10 players concurrently, using 'top' on the RPI5 8GB it shows the minercraft server using a total of 300%+ of the CPU's resources. This is for only small inexpensive servers, and for small servers, NOT for a full server intended for 10+ people. Use this as a building ground or testing ground for your server. Also you'll need to install Java.
 
+The `start.sh` script uses tmux for split console sessions. Change if needed
+
 Go to SETUP.txt for instructions on what to do.
